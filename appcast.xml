@@ -7,10 +7,10 @@
       <language>en</language>
          <item>
             <title>Version 1.0.51 (2 bugs fixed; 3 new features)</title>
-				<sparkle:releaseNotesLink>https://netsparkleupdater.github.io/NetSparkle/files/sample-app/2.0-release-notes.md
+				<sparkle:releaseNotesLink>https://raw.githubusercontent.com/Shevchenko-Alexander/sparkletest/main/1.0.51-release-notes.md
 				</sparkle:releaseNotesLink>
             <pubDate>Thu, 27 Oct 2022 10:30:00 +0000</pubDate>
-            <enclosure url="\\NASEED390\Repository\mysetup.exe" sparkle:version="2.0" length="12288" type="application/octet-stream" sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ==" />
+            <enclosure url="https://infinity-ar-videos.s3.eu-central-1.amazonaws.com/videos/mysetup.exe" sparkle:version="2.0" length="12288" type="application/octet-stream" sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ==" />
          </item>
    </channel>
 </rss>
